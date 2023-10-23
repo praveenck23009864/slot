@@ -162,7 +162,7 @@ Execute the program using runserver command.
 </html>
 ```
 ## OUTPUT
-![Screenshot 2023-10-10 125632](https://github.com/praveenck23009864/slot/assets/141472050/003d06da-0117-49fb-9a52-c6429f6c9352)
+![praveen output](https://github.com/praveenck23009864/slot/assets/141472050/3053ff81-46f7-4b14-ae73-40be52497385)
 
 
 ## HTML VALIDATOR
